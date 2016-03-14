@@ -14,48 +14,56 @@
         <p><a class="btn btn-primary btn-lg" href="#" role="button"><i class="fa fa-cutlery"></i>&nbsp;Our Menu</a></p>
       </div>
 
-      <div class="row">
-				<div class="col-sm-6 col-xs-12">
-					<div class="boxHeading">
-						<span class="boxHeading"><i class="fa fa-clock-o"></i>&nbsp;Hours</span>
-					</div>
-					<div class="boxContent">
-            <table class="table text-center">
-              <tr><td>Mon</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Tue</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Wed</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Thu</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Fri</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Sat</td><td>8:00 am - 3:30 pm</td></tr>
-              <tr><td>Sun</td><td>Closed</td></tr>
-            </table>
-					</div>
-				</div>
+      <div class="row row-eq-height">
 
         <div class="col-sm-6 col-xs-12">
-					<div class="boxHeading">
-						<span class="boxHeading"><i class="fa fa-camera"></i>&nbsp;Photos</span>
-					</div>
-
-					<div class="boxContent text-center">
-            <div class="text-center">
-                <a href="images/burger.jpg" class="swipebox" title="Green Chili Burger">
-                  <img src="images/thumbnails/burger.jpg" alt="image" class="swipeboxImage"></a>
-                <a href="images/chicken.jpg" class="swipebox" title="Chicken Skewer">
-                  <img src="images/thumbnails/chicken.jpg" alt="image" class="swipeboxImage"></a>
-                <a href="images/greek-salad.jpg" class="swipebox" title="Greek Salad">
-                  <img src="images/thumbnails/greek-salad.jpg" alt="image" class="swipeboxImage"></a>
-
-                <a href="images/gyros.jpg" class="swipebox" title="Gyros">
-                  <img src="images/thumbnails/gyros.jpg" alt="image" class="swipeboxImage"></a>
-                <a href="images/lamb.jpg" class="swipebox" title="Lamb">
-                  <img src="images/thumbnails/lamb.jpg" alt="image" class="swipeboxImage"></a>
-                <a href="images/shrimp.jpg" class="swipebox" title="Shrimp Plate">
-                  <img src="images/thumbnails/shrimp.jpg" alt="image" class="swipeboxImage"></a>
+              <div class="box">
+                <div class="boxHeading">
+                  <span class="boxHeading"><i class="fa fa-clock-o"></i>&nbsp;Hours</span>
+                </div>
+                <div class="boxContent">
+                  <table class="table text-center">
+                    <tr><td>Mon</td><td>7:30 am - 5:30 pm</td></tr>
+                    <tr><td>Tue</td><td>7:30 am - 5:30 pm</td></tr>
+                    <tr><td>Wed</td><td>7:30 am - 5:30 pm</td></tr>
+                    <tr><td>Thu</td><td>7:30 am - 5:30 pm</td></tr>
+                    <tr><td>Fri</td><td>7:30 am - 5:30 pm</td></tr>
+                    <tr><td>Sat</td><td>8:00 am - 3:30 pm</td></tr>
+                    <tr><td>Sun</td><td>Closed</td></tr>
+                  </table>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </div>
+              </div>
             </div>
-          </div>
 
-				</div><!--/photos-->
+
+        <div class="col-sm-6 col-xs-12">
+              <div class="box">
+                <div class="boxHeading">
+                  <span class="boxHeading"><i class="fa fa-camera"></i>&nbsp;Photos</span>
+                </div>
+
+                <div class="boxContent text-center">
+                  <div class="text-center">
+                      <a href="images/burger.jpg" class="swipebox" title="Green Chili Burger">
+                        <img src="images/thumbnails/burger.jpg" alt="image" class="swipeboxImage"></a>
+                      <a href="images/chicken.jpg" class="swipebox" title="Chicken Skewer">
+                        <img src="images/thumbnails/chicken.jpg" alt="image" class="swipeboxImage"></a>
+                      <a href="images/greek-salad.jpg" class="swipebox" title="Greek Salad">
+                        <img src="images/thumbnails/greek-salad.jpg" alt="image" class="swipeboxImage"></a>
+
+                      <a href="images/gyros.jpg" class="swipebox" title="Gyros">
+                        <img src="images/thumbnails/gyros.jpg" alt="image" class="swipeboxImage"></a>
+                      <a href="images/lamb.jpg" class="swipebox" title="Lamb">
+                        <img src="images/thumbnails/lamb.jpg" alt="image" class="swipeboxImage"></a>
+                      <a href="images/shrimp.jpg" class="swipebox" title="Shrimp Plate">
+                        <img src="images/thumbnails/shrimp.jpg" alt="image" class="swipeboxImage"></a>
+                  </div>
+                </div>
+              </div>
+            </div><!--/photos-->
+
+
 			</div><!--/row-->
 
 

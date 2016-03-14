@@ -25,8 +25,6 @@
 <!--Yelp Widget-->
 <script>(function() { var s = document.createElement("script");s.async = true;s.onload = s.onreadystatechange = function(){getYelpWidget("zohra-authentic-foods-albuquerque","300","RED","y","y","2");};s.src='http://chrisawren.com/widgets/yelp/yelpv2.js' ;var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);})();</script>
 
-<!-- <link rel="stylesheet" href="css/flexbox.css"> -->
-
 <!--Swipebox-->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><script src="js/jquery.swipebox.min.js"></script>
 <script type="text/javascript">;( function( $ ) {$( '.swipebox' ).swipebox();} )( jQuery );</script>

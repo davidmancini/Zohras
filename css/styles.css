@@ -1,0 +1,53 @@
+/**************************************************
+ * CSS Stylesheet for Zohra's
+ *
+ * @author David Mancini <hello@madebymancini.com
+ *************************************************/
+
+ /************************************************
+  * Global styles
+  ***********************************************/
+body {
+  background-color: #C8B397;
+}
+
+
+.jumbotron {
+  background: url("../images/greek-plate.jpg") no-repeat center center;
+  background-color: #836C59;
+  background-blend-mode: multiply;
+  color: white;
+
+}
+
+.panel-default > .colorHeading {
+  color: white;
+  background: #275E8E;
+  border-color: #275E8E;
+}
+
+.panel-default {
+  border-color: #275E8E;
+}
+
+.swipeboxImage {
+  padding-bottom: 5px;
+}
+
+.row-eq-height {
+  display: flex;
+  flex: 1 1 auto;
+  -webkit-flex-flow: row wrap;
+  align-content: flex-start;
+
+.row-eq-height > div[class*="col-"] {
+  display: flex;
+  flex: 1 1 auto;
+  margin: -.2px;
+  margin-bottom: 5px;
+}
+
+.panelHeading {
+  background: #275E8E;
+  color: black;
+}

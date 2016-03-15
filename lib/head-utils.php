@@ -1,8 +1,6 @@
 <!--jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 
-
-
 <!-- Tells IE to use highest mode available, avoiding IE compatibility Mode bugs. -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <script>window.onkeypress = function(event) {if (event.keyCode === 169) {alert('This site was developed by David Mancini.');}};</script>

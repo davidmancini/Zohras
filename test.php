@@ -21,12 +21,12 @@
 					</div>
 					<div class="boxContent">
             <table class="table text-center">
-              <tr><td>Mon</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Tue</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Wed</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Thu</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Fri</td><td>7:30 am - 5:30 pm</td></tr>
-              <tr><td>Sat</td><td>8:00 am - 3:30 pm</td></tr>
+              <tr><td>Mon</td><td>7:30 am - 4:00 pm</td></tr>
+              <tr><td>Tue</td><td>7:30 am - 4:00 pm</td></tr>
+              <tr><td>Wed</td><td>7:30 am - 4:00 pm</td></tr>
+              <tr><td>Thu</td><td>7:30 am - 4:00 pm</td></tr>
+              <tr><td>Fri</td><td>7:30 am - 4:00 pm</td></tr>
+              <tr><td>Sat</td><td>Closed</td></tr>
               <tr><td>Sun</td><td>Closed</td></tr>
             </table>
 					</div>

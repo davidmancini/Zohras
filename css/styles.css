@@ -18,6 +18,11 @@ body {
   color: white;
 }
 
+.jumbotron > h1 {
+  font-family: 'Tangerine', cursive;
+  font-size: 8em;
+}
+
 .panel-default > .colorHeading {
   color: white;
   background: #275E8E;
@@ -69,4 +74,22 @@ body {
   flex: 1 1 auto;
   margin: -.2px;
   margin-bottom: 5px;
+}
+
+/************************************************
+ * Footer
+ ***********************************************/
+.footerRow {
+  margin-top: 15px;
+  padding: 20px;
+  background-color: #6F7070;
+  color: white;
+}
+
+.footerRow a:link,
+.footerRow a:visited,
+.footerRow a:hover,
+.footerRow a:active {
+  color: white;
+  text-decoration: underline;
 }

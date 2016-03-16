@@ -11,9 +11,9 @@
       <div class="jumbotron text-center">
         <h1>Zohra's Authentic Foods</h1>
         <p>Serving Greek, Italian, Chinese, Afghan, American Favorites, Native American, Indian, and Vegetarian</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button"><i class="fa fa-cutlery"></i>&nbsp;Our Menu</a></p>
+        <p><a class="btn btn-primary btn-lg" href="menu.php" role="button"><i class="fa fa-cutlery"></i>&nbsp;Our Menu</a></p>
       </div>
-      
+
       <div class="row">
 				<div class="col-sm-6 col-xs-12">
 					<div class="boxHeading">

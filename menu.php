@@ -8,7 +8,7 @@
   <body>
     <div class="container">
       <div class="jumbotron text-center">
-        <h1>Zohra's Authentic Foods</h1>
+        <h1>Zohra's Menu</h1>
         <p>Serving Greek, Italian, Chinese, Afghan, American Favorites, Native American, Indian, and Vegetarian</p>
         <p><a class="btn btn-primary btn-lg" href="tel:5052472323" role="button"><i class="fa fa-phone"></i>&nbsp;Order Now: (505) 247-2323</a></p>
       </div>
@@ -152,6 +152,7 @@
   <div class="menuBottom">
     <p class="text-center">We love to cater your office party, outing, or birthday<br>
       <a href="tel:5052472323"><i class="fa fa-phone"></i>&nbsp;(505) 247-2323</a></p>
+      <br><p class="text-center">Prices and availability are subject to change without notice.</p>
   </div>
 
     </div><!--/container-->

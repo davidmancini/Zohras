@@ -82,8 +82,14 @@
           <div class="boxHeading">
             <span class="boxHeading"><i class="fa fa-heart"></i>&nbsp;About Zohra</span>
           </div>
-          <div class="boxContent text-center">
-            About Zohra
+          <div class="boxContent aboutZohra">
+            <p class="text-center">At Zohra, we make simple, great food for everyone's everyday life. We pride ourselves
+              on the exceptional quality we put into each and every authentic food, salad, and
+              sandwich.</p>
+            <p class="text-center">We strive to give you an outstanding dining experience because we believe in
+              an extrodinary service.</p>
+            <p class="text-center"><strong>Our highest compliment is when our customers refer their
+                family and friends to us.</strong></p>
           </div>
         </div>
       </div>

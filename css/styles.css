@@ -79,9 +79,16 @@ body {
 /************************************************
  * Menu Page
  ***********************************************/
- h1 {
+ h1,h2,h3,h4,h5,h6 {
    font-family: 'Tangerine', cursive;
-   font-size: 8em;
+ }
+
+ h1 {
+  font-size: 8em;
+ }
+
+ h2 {
+   font-size: 4em;
  }
 
 .menuBottom {

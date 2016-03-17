@@ -12,6 +12,7 @@
         <p>Serving Greek, Italian, Chinese, Afghan, American Favorites, Native American, Indian, and Vegetarian</p>
         <p><a class="btn btn-primary btn-lg" href="tel:5052472323" role="button"><i class="fa fa-phone"></i>&nbsp;Order Now: (505) 247-2323</a></p>
       </div>
+      <p><a href="index.php"><i class="fa fa-arrow-circle-left"></i>&nbsp;Home</a></p>
 
       <div class="row">
 				<div class="col-sm-6 col-xs-12">

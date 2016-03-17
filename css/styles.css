@@ -1,7 +1,7 @@
 /**************************************************
  * CSS Stylesheet for Zohra's
  *
- * @author David Mancini <hello@madebymancini.com
+ * @author David Mancini <hello@madebymancini.com>
  *************************************************/
 
  /************************************************
@@ -11,6 +11,21 @@ body {
   background-color: #C8B397;
 }
 
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Tangerine', cursive;
+}
+
+h1 {
+ font-size: 8em;
+}
+
+h2 {
+  font-size: 4em;
+}
+
+/************************************************
+ * Jumbotron
+ ***********************************************/
 .jumbotron {
   background: url("../images/greek-plate.jpg") no-repeat center center;
   background-color: #836C59;
@@ -23,7 +38,10 @@ body {
   font-size: 8em;
 }
 
-.panel-default > .colorHeading {
+/************************************************
+ * Panels
+ ***********************************************/
+/* .panel-default > .colorHeading {
   color: white;
   background: #275E8E;
   border-color: #275E8E;
@@ -40,7 +58,11 @@ body {
   background: #275E8E;
   color: black;
 }
+ */
 
+ /************************************************
+  * Box styles
+  ***********************************************/
 .boxHeading {
 	color: white;
   background-color: #275E8E;
@@ -59,44 +81,38 @@ body {
   padding: 5px;
 }
 
-.box {
-
-}
-
-.row-eq-height {
-  display: flex;
-  flex: 1 1 auto;
-  -webkit-flex-flow: row wrap;
-  align-content: flex-start;
-}
-.row-eq-height > div[class*="col-"] {
-  display: flex;
-  flex: 1 1 auto;
-  margin: -.2px;
+/************************************************
+ * Equal Row Heights
+ ***********************************************/
+.row-flex > div[class*="col-"] {
   margin-bottom: 5px;
 }
 
+ /* use the min-width of the appropriate breakpoint (this is set on md and lg)*/
+@media only screen and (min-width: 992px) {
+   .row-flex {
+     display: flex;
+     flex: 1 1 auto;
+     -webkit-flex-flow: row wrap;
+     align-content: flex-start;
+   }
+
+   .row-flex > div[class*="col-"] {
+     display: flex;
+     flex: 1 1 auto;
+     margin: -0.2px;
+   }
+}
+
+.table {
+  width: 100%;
+}
 /************************************************
  * Menu Page
  ***********************************************/
- h1,h2,h3,h4,h5,h6 {
-   font-family: 'Tangerine', cursive;
- }
-
- h1 {
-  font-size: 8em;
- }
-
- h2 {
-   font-size: 4em;
- }
-
+/* Text at bottom of Menu page */
 .menuBottom {
   margin: 20px;
-}
-
-.aboutZohra {
-  padding: 10px 20px;
 }
 
 /************************************************

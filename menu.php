@@ -13,10 +13,10 @@
         <p><a class="btn btn-primary btn-lg" href="tel:5052472323" role="button"><i class="fa fa-phone"></i>&nbsp;Order Now: (505) 247-2323</a></p>
       </div>
 
-      <p><a href="index.php"><i class="fa fa-arrow-circle-left"></i>&nbsp;Home</a></p>
+        <p><a class="btn btn-primary btn-lg" href="index.php" role="button"><i class="fa fa-arrow-circle-left"></i>&nbsp;Home</a></p>
 
       <div class="breakfast">
-        <h2 class="text-center">Zohra's Breakfast Menu</h2>
+        <h2 class="menuHeading">Zohra's Breakfast Menu</h2>
         <div class="row row-flex">
           <div class="col-sm-6 col-xs-12">
             <div class="panel panel-default">
@@ -53,7 +53,7 @@
       </div><!--/breakfast-->
 
       <div class="lunch">
-        <h2 class="text-center">Zohra's Lunch Menu</h2>
+        <h2 class="menuHeading">Zohra's Lunch Menu</h2>
         <div class="row row-flex">
           <div class="col-sm-6 col-xs-12">
             <div class="panel panel-default">
@@ -207,10 +207,10 @@
     </div><!--/row-->
   </div><!--/lunch-->
 
-  <h2>Beverages</h2>
+  <h2 class="menuHeading">Beverages</h2>
   <div class="beverages">
     <div class="row">
-      <div class="col-sm-6 col-xs-12">
+      <div class="col-sm-12 col-xs-12">
         <div class="panel panel-default">
           <div class="panel-heading colorHeading">
             <p class="panel-title"><i class="fa fa-cutlery"></i>&nbsp;Beverages</p>

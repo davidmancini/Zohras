@@ -8,7 +8,9 @@
   * Global styles
   ***********************************************/
 body {
-  background-color: #C8B397;
+/*   background-color: #C8B397; */
+  background-image: url("../images/background.jpg");
+  background-repeat: repeat-y;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -113,9 +115,21 @@ h2 {
 /************************************************
  * Menu Page
  ***********************************************/
+.menuHeading {
+  color: white;
+  background-color: #275E8E;
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 10px;
+  text-align: center;
+}
+
 /* Text at bottom of Menu page */
 .menuBottom {
-  margin: 20px;
+  background-color: white;
+  width: 50%;
+  float: none;
+  margin: 0 auto;;
 }
 
 /************************************************
@@ -124,14 +138,17 @@ h2 {
 .footerRow {
   margin-top: 15px;
   padding: 20px;
-  background-color: #6F7070;
+  background-color: #275E8E;
   color: white;
 }
 
 .footerRow a:link,
-.footerRow a:visited,
-.footerRow a:hover,
-.footerRow a:active {
+.footerRow a:visited {
   color: white;
   text-decoration: underline;
+}
+
+.footerRow a:hover,
+.footerRow a:active {
+  color: black;
 }

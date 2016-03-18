@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Zohra's Authentic Food | Albuquerque, NM</title>
-    <?php require_once ("lib/head-utils.php"); ?>
+    <?php require_once 'lib/head-utils.php'; ?>
   </head>
   <body>
     <div class="container">
@@ -243,6 +243,6 @@
 
 
     </div><!--/container-->
-    <?php require_once ("lib/footer.php"); ?>
+    <?php require_once 'lib/footer.php'; ?>
   </body>
 </html>

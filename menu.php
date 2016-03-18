@@ -13,9 +13,14 @@
         <p><a class="btn btn-primary btn-lg" href="tel:5052472323" role="button"><i class="fa fa-phone"></i>&nbsp;Order Now: (505) 247-2323</a></p>
       </div>
 
-        <p><a class="btn btn-primary btn-lg" href="index.php" role="button"><i class="fa fa-arrow-circle-left"></i>&nbsp;Home</a></p>
+      <div class="center-block">
+        <a class="btn btn-primary btn-lg" href="index.php" role="button"><i class="fa fa-arrow-circle-left"></i>&nbsp;Home</a>
+        <a class="btn btn-primary btn-lg" href="#breakfast" role="button"><i class="fa fa-cutlery"></i>&nbsp;Breakfast</a>
+        <a class="btn btn-primary btn-lg" href="#lunch" role="button"><i class="fa fa-cutlery"></i>&nbsp;Lunch</a>
+        <a class="btn btn-primary btn-lg" href="#beverages" role="button"><i class="fa fa-coffee"></i>&nbsp;Beverages</a>
+      </div>
 
-      <div class="breakfast">
+      <div class="breakfast"><a name="breakfast"></a>
         <h2 class="menuHeading">Zohra's Breakfast Menu</h2>
         <div class="row row-flex">
           <div class="col-sm-6 col-xs-12">
@@ -25,8 +30,8 @@
               </div>
                 <div class="panel-body">
                   <table class="table-responsive table-striped table-hover text-center" width="100%">
-                    <tr><td>Cheese Omlet</td><td>$7.00</td></tr>
-                    <tr><td>Afghan Style Omlet<br>Egg, light spicy sausage, cilantro, and cucumber</td><td>$7.00</td></tr>
+                    <tr><td>Cheese Omelet</td><td>$7.00</td></tr>
+                    <tr><td>Afghan Omelet Omlet<br>Egg, light spicy sausage, cilantro, and cucumber</td><td>$7.00</td></tr>
                     <tr><td>Breakfast Burrito<br>Egg, cheese, green chili, and has brown</td><td>$4.00</td></tr>
                     <tr><td>Bagel and Cream Cheese</td><td>$2.50</td></tr>
                     <tr><td>Safwon's Breakfast<br>Scrambled eggs and cheese on a toasted bagel</td><td>$5.00</td></tr>
@@ -52,7 +57,7 @@
         </div><!--/row-->
       </div><!--/breakfast-->
 
-      <div class="lunch">
+      <div class="lunch"><a name="lunch"></a>
         <h2 class="menuHeading">Zohra's Lunch Menu</h2>
         <div class="row row-flex">
           <div class="col-sm-6 col-xs-12">
@@ -61,7 +66,7 @@
                 <p class="panel-title"><i class="fa fa-cutlery"></i>&nbsp;Daily Specials</p>
               </div>
               <div class="panel-body">
-                <p>All our hamburgers are 100% sirloin, other sandwitches are made with natural meats and organic veggies
+                <p>All our hamburgers are 100% sirloin, other sandwiches are made with natural meats and organic veggies.
                 Meal includes sandwich, a bag of chips & a drink.</p>
                 <table class="table-responsive table-striped table-hover text-center" width="100%">
                   <tr><td>Gyro</td><td>$8.99</td></tr>
@@ -124,14 +129,14 @@
             <div class="panel-body">
               <p>Made with organic vegetables and cooked in vegetable oil</p>
               <table class="table-responsive table-striped table-hover text-center" width="100%">
-                <tr><td>Falafel Meal<br>(sandwich, back of chips & a drink)</td><td>$8.99</td></tr>
+                <tr><td>Falafel Meal<br>(sandwich, bag of chips & a drink)</td><td>$8.99</td></tr>
                 <tr><td>Falafel Sandwich</td><td>$6.00</td></tr>
                 <tr><td>Veggie Indian Taco</td><td>$8.00</td></tr>
                 <tr><td>Veggie Frito Pie</td><td>$3.00</td></tr>
                 <tr><td>Grilled Cheese Sandwich</td><td>$3.50</td></tr>
                 <tr><td>Boca Burger</td><td>$5.50</td></tr>
                 <tr><td>Veggie Beans and Rice</td><td>$5.00</td></tr>
-                <tr><td>Sabizi (Spinich w/ Rice)<br>Cooked with fresh cilantro, tofu, and spice</td><td>$7.00</td></tr>
+                <tr><td>Sabizi (Spinach w/ Rice)<br>Cooked with fresh cilantro, tofu, and spice</td><td>$7.00</td></tr>
               </table>
             </div>
           </div>
@@ -207,13 +212,13 @@
     </div><!--/row-->
   </div><!--/lunch-->
 
-  <h2 class="menuHeading">Beverages</h2>
-  <div class="beverages">
+  <div class="beverages"><a name="beverages"></a>
+    <h2 class="menuHeading">Beverages</h2>
     <div class="row">
       <div class="col-sm-12 col-xs-12">
         <div class="panel panel-default">
           <div class="panel-heading colorHeading">
-            <p class="panel-title"><i class="fa fa-cutlery"></i>&nbsp;Beverages</p>
+            <p class="panel-title"><i class="fa fa-coffee"></i>&nbsp;Beverages</p>
           </div>
           <div class="panel-body">
             <table class="table-responsive table-striped table-hover text-center" width="100%">

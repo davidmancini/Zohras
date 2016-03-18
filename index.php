@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Zohra's Authentic Food | Albuquerque, NM</title>
-    <?php require_once ("lib/head-utils.php"); ?>
+    <?php require_once 'lib/head-utils.php'; ?>
   </head>
   <body>
     <div class="container">
@@ -61,7 +61,7 @@
         <div class="col-sm-6">
             <div class="panel panel-default">
               <div class="panel-heading colorHeading">
-                <p class="boxHeading"><i class="fa fa-map-marker"></i>&nbsp;Location</p>
+                <p class="panel-title"><i class="fa fa-map-marker"></i>&nbsp;Location</p>
               </div>
               <div class="panel-body text-center">
                 <p><a href="tel:5052472323"><i class="fa fa-phone"></i>&nbsp;Call Us: (505) 247-2323</a></p>
@@ -74,7 +74,7 @@
             <div class="col-sm-6">
               <div class="panel panel-default">
                 <div class="panel-heading colorHeading">
-                  <p class="boxHeading"><i class="fa fa-yelp"></i>&nbsp;Reviews</p>
+                  <p class="panel-title"><i class="fa fa-yelp"></i>&nbsp;Reviews</p>
                 </div>
                 <div class="panel-body text-center">
                   <div id='yelpwidget'></div>
@@ -87,7 +87,7 @@
         <div class="col-sm-12">
           <div class="panel panel-default">
             <div class="panel-heading colorHeading">
-              <p class="boxHeading"><i class="fa fa-heart"></i>&nbsp;About Zohra</p>
+              <p class="panel-title"><i class="fa fa-heart"></i>&nbsp;About Zohra</p>
             </div>
             <div class="panel-body text-center">
               <p class="text-center">At Zohra, we make simple, great food for everyone's everyday life. We pride ourselves
@@ -104,6 +104,6 @@
 
 
     </div><!--/container-->
-    <?php require_once ("lib/footer.php"); ?>
+    <?php require_once 'lib/footer.php'; ?>
   </body>
 </html>
